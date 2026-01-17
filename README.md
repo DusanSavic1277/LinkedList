@@ -12,7 +12,7 @@ This is a Java implementation of **Singly and Doubly Linked List**, with a demon
 - DoublyLinkedList:
   - addFirst, addLast
   - removeFirst, removeLast
-  - printList (dvostruko povezano)
+  - printList (double linked)
 - MyStack (koristi SinglyLinkedList)
 - MyQueue (koristi DoublyLinkedList)
 
