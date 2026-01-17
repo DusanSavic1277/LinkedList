@@ -13,13 +13,14 @@ This is a Java implementation of **Singly and Doubly Linked List**, with a demon
   - addFirst, addLast
   - removeFirst, removeLast
   - printList (double linked)
-- MyStack (koristi SinglyLinkedList)
-- MyQueue (koristi DoublyLinkedList)
+- MyStack (uses SinglyLinkedList)
+- MyQueue (uses DoublyLinkedList)
 
 ## Why LinkedList?
-- Brzo dodavanje/brisanje na početku i kraju
-- Osnovna struktura podataka u računarstvu
-- Stack i Queue mogu se implementirati direktno
+
+- Quick add/delete at start and end
+- Basic data structure in computing
+- Stack and Queue can be implemented directly
 
 ## Usage
 
